@@ -1,0 +1,18 @@
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\bin\Debug\Semantic Triangle.exe
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\bin\Debug\Semantic Triangle.pdb
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic_Triangle.triangle.resources
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic_Triangle.Properties.Resources.resources
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic Triangle.exe
+D:\Learning\Semester 5\Artificial Inteligence\Exercise\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic Triangle.pdb
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\bin\Debug\Semantic Triangle.exe
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\bin\Debug\Semantic Triangle.pdb
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic Triangle.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic_Triangle.triangle.resources
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic_Triangle.Properties.Resources.resources
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic Triangle.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic Triangle.exe
+C:\Users\Administrator\Downloads\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\CNTN03_TTNT_BAI-TAP-3_LAM-THANH-CUONG_08520526\Semantic Triangle\Semantic Triangle\obj\x86\Debug\Semantic Triangle.pdb
